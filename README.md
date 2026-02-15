@@ -1,5 +1,4 @@
 # Praktikum CAD - CAM 
-Universitas Diponegoro, Sekolah Vokasi, Prodi Teknologi Rekayasa Otomasi Angkatan 2025
 
 ## Identitas Mahasiswa
 - **Nama:** Muhammad Daffarino Dzaki Putra  
